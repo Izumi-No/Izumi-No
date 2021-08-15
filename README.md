@@ -1,4 +1,4 @@
-<h3>Olá, Meu nome é Kevyn, atendo por Izumi também, curto programar em javascript e rust (ainda estou aprendendendo). Me considero um fullstack, porém ainda preciso refinar meu codigo, não posto muito meus projetos, mas pretendo. Estou disposto a conhecer novas pessoas e também evoluir</h3>
+<h3>Olá, Meu nome é Kevyn, atendo por Izumi também, curto programar em javascript e rust (ainda estou aprendendendo). Me considero um fullstack, porém ainda preciso refinar meu codigo, não posto muito meus projetos, mas pretendo utilizar mais o github. Estou disposto a conhecer novas pessoas e também evoluir</h3>
 
 
 <div styles="display: flex; flex-direction: row;align-items: center; justify-content: space-between">
