@@ -10,7 +10,7 @@
 <img width="55px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
 <img width="55px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
 <img width="55px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg">
-<img width="55px" src="https://www.nicepng.com/png/detail/34-348422_community-spotlight-rust-programming-language.png">
+<img width="55px" src="https://raw.githubusercontent.com/Izumi-No/Izumi-No/master/rust-plain.svg">
 
 </svg>
   
