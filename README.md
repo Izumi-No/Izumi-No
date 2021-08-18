@@ -12,7 +12,7 @@
 <img width="55px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg">
 <img width="55px"  src="https://raw.githubusercontent.com/Izumi-No/Izumi-No/master/rust-plain.svg"> 
 </div>
-<img width="200px" src="https://github.com/Izumi-No/Izumi-No/blob/master/download20210802215916.png?raw=true">
+<img width="200px" src="https://github.com/Izumi-No/Izumi-No/blob/master/izumi.gif?raw=true">
 
 
 <img src="https://raw.githubusercontent.com/Izumi-No/Izumi-No/output/github-contribution-grid-snake.svg">
