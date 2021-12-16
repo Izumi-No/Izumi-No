@@ -9,9 +9,11 @@
 <img width="55px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg">
 <img width="55px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
 <img width="55px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
+  
 <img width="55px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg">
+  <img width="55px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"> 
 <img width="55px"  src="https://raw.githubusercontent.com/Izumi-No/Izumi-No/master/rust-plain.svg"> 
-<img width="55px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"> 
+
 </div>
 <img width="200px" src="https://github.com/Izumi-No/Izumi-No/blob/master/izumi.gif?raw=true">
 
