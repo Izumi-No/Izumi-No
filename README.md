@@ -15,6 +15,7 @@
 <img width="55px"  src="https://raw.githubusercontent.com/Izumi-No/Izumi-No/master/rust-plain.svg"> 
 
 </div>
+
 <img width="200px" src="https://github.com/Izumi-No/Izumi-No/blob/master/izumi.gif?raw=true">
 
 
