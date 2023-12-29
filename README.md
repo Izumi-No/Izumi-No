@@ -15,7 +15,9 @@
   
 <img width="64px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg">
   <img width="64px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"> 
-<img width="64px"  src="https://raw.githubusercontent.com/Izumi-No/Izumi-No/master/rust-plain.svg"> 
+  
+<img width="64px"  src="https://raw.githubusercontent.com/Izumi-No/Izumi-No/master/cuddlyferris.svg"> 
+<img width="64px"  src="https://vlang.io/img/v-logo.png"> 
 
 </div>
 </details>
