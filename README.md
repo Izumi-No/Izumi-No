@@ -1,12 +1,12 @@
 
 <h1>Hello everyone!! 👋</h1>
-<h3>
+<p>
   Hello! My name is Kevyn, but I'm also known as Izumi. I started developing at the age of 14 and I'm about to turn 19. Throughout my journey of personal and professional self-discovery, I have extensively explored the subareas of my interests, which are currently focused on Fullstack Web development and DevOps. I've adopted an approach aimed at enhancing my skills and maintaining clear communication with my peers.
 
 I graduated in Computer Networks from IFSP, where I had my first professional experience with agile methodologies, and I intend to continue my academic improvement. I've worked with REST API development in Node.js, Deno, and Golang, mainly using Postgresql, as well as frontend with Svelte, Next.js, and React, using Redux and other state managers. Currently, I'm studying the concept of DDD (Domain-Driven Design) and learning about the applicability of architectural models to improve effectiveness in development.
 
 Thank you very much for taking the time and attention to read this! :D
-</h3>
+</p>
 <div styles="display: grid; place-items: center; place-content:center; space: 50px;">
 
 <img  src="https://github-readme-stats.vercel.app/api?username=Izumi-No&show_icons=true&theme=midnight-purple">
