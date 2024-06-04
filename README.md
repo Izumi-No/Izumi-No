@@ -23,7 +23,6 @@ Thank you very much for taking the time and attention to read this! :D
 <img width="64px"  src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/993px-Postgresql_elephant.svg.png"> 
   <img width="64px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"> 
 <img width="64px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg">
-  <img width="64px"  src="https://www.amqp.org/sites/amqp.org/themes/genesis_amqp/images/showreel/logo.png">
   <img width="64px"  src="https://activemq.apache.org/assets/img/activemq_logo_icon.png">
 <img width="64px"  src="https://vlang.io/img/v-logo.png"> 
 <img width="64px"  src="https://raw.githubusercontent.com/Izumi-No/Izumi-No/master/go-gopher-svgrepo-com.svg"> 
