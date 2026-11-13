@@ -1,37 +1,71 @@
+# Hi, I'm Kevyn (Izumi) Ribeiro 👋
 
-<h1>Hello everyone!! 👋</h1>
-<p>
-  Hello! My name is Kevyn, but I'm also known as Izumi. I started developing at the age of 14 and I'm about to turn 19. Throughout my journey of personal and professional self-discovery, I have extensively explored the subareas of my interests, which are currently focused on Fullstack Web development and DevOps. I've adopted an approach aimed at enhancing my skills and maintaining clear communication with my peers.
+**Systems Programmer & Researcher** obsessed with how software talks to silicon, wire protocols, and everything beneath the abstraction layer.
 
-I took a technical Computer Networks from IFSP (the Federal Institute of cience and technology from São Paulo), where I had my first professional experience with agile methodologies, and I intend to continue my academic improvement. I've worked with REST API development in Node.js, Deno, and Golang, mainly using Postgresql, as well as frontend with Svelte, Next.js, and React, using Redux and other state managers. Currently, I'm studying the concept of DDD (Domain-Driven Design) and learning about the applicability of architectural models to improve effectiveness in development.
+My work and curiosity revolve around **Systems Architecture**, **Operating Systems**, **Compilers**, **Networking**, **Emulation**, and **Bare-Metal** engineering—building things from scratch to understand their internals down to the instruction, memory, and packet level.
 
-Thank you very much for taking the time and attention to read this! :D
-</p>
-<div styles="display: grid; place-items: center; place-content:center; space: 50px;">
+---
 
-<img  src="https://github-readme-stats.vercel.app/api?username=Izumi-No&show_icons=true&theme=midnight-purple">
-<img width="224px" src="https://github.com/Izumi-No/Izumi-No/blob/master/izumi.gif?raw=true">
+### ⚙️ Core Interests & Focus Areas
 
-</div>
-<h2>languages/technologies I use</h2>
-<div styles="display: flex">
-<img width="64px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
-  <img width="64px"  src="https://deno.com/images/artwork/hashrock_simple.png?__frsh_c=e0ebeacef69d69d46ce8b9f2f2967cc722943a2a"> 
-<img width="64px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
-  
-<img width="64px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg">
-<img width="64px"  src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/993px-Postgresql_elephant.svg.png"> 
-  <img width="64px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"> 
-<img width="64px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg">
-  <img width="64px"  src="https://activemq.apache.org/assets/img/activemq_logo_icon.png">
-<img width="64px"  src="https://vlang.io/img/v-logo.png"> 
-<img width="64px"  src="https://raw.githubusercontent.com/Izumi-No/Izumi-No/master/go-gopher-svgrepo-com.svg"> 
-<img width="64px"  src="https://raw.githubusercontent.com/Izumi-No/Izumi-No/master/cuddlyferris.svg"> 
+- **Compilers & Runtimes:** Designing custom compilers and runtimes driven by computational dependency graphs for parallel execution across heterogeneous CPU/GPU architectures.
+- **Emulation & Hardware Architecture:** Building a cycle-accurate NES emulator in Rust using Zero-Sized Types (ZSTs) for static instruction dispatch, macro-generated opcodes, and a zero-copy memory bus.
+- **Bare Metal & Reverse Engineering:** Exploring constrained embedded targets, memory-mapped I/O, and hardware hacking—including porting and running **Doom on a fiber-optic receiver**.
+- **Operating Systems & Systems Architecture:** Low-level memory management, concurrency primitives, runtime mechanics, and deterministic execution models.
+- **Networking & Infrastructure:** Packet-level protocols, NAT traversal, tunneling, distributed messaging, and self-hosted bare-metal/containerized setups.
 
+---
 
-</div>
+### 🛠️ Tech Stack & Ecosystem
 
+#### Systems, Low-Level & Embedded
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Assembly](https://img.shields.io/badge/Assembly-654FF0?style=for-the-badge&logo=assemblyscript&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
+![WebAssembly](https://img.shields.io/badge/WebAssembly_/_WASI-654FF0?style=for-the-badge&logo=webassembly&logoColor=white)
 
+#### Languages, Runtimes & Web
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Deno](https://img.shields.io/badge/Deno-000000?style=for-the-badge&logo=deno&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Svelte](https://img.shields.io/badge/Svelte-FF3E00?style=for-the-badge&logo=svelte&logoColor=white)
 
-<!--<img src="https://raw.githubusercontent.com/Izumi-No/Izumi-No/output/github-contribution-grid-snake.svg">-->
+#### Networking, Messaging & IPC
+![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![MQTT](https://img.shields.io/badge/MQTT-660066?style=for-the-badge&logo=mqtt&logoColor=white)
+![ZeroMQ](https://img.shields.io/badge/ZeroMQ-DF0000?style=for-the-badge&logo=zeromq&logoColor=white)
+![gRPC](https://img.shields.io/badge/gRPC-244C5A?style=for-the-badge&logo=google&logoColor=white)
+![OpenResty](https://img.shields.io/badge/OpenResty_/_NGINX-009639?style=for-the-badge&logo=nginx&logoColor=white)
 
+#### Databases & Scientific Computing
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![YugabyteDB](https://img.shields.io/badge/YugabyteDB-FF6F00?style=for-the-badge&logo=databricks&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white)
+
+#### Infrastructure, OS & Tooling
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
+![Pulumi](https://img.shields.io/badge/Pulumi-8A3391?style=for-the-badge&logo=pulumi&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+#### AI Engineering & Protocols
+![MCP](https://img.shields.io/badge/MCP_(Model_Context_Protocol)-111111?style=for-the-badge&logo=anthropic&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG_Pipelines-4A154B?style=for-the-badge&logo=openai&logoColor=white)
+![LLMs](https://img.shields.io/badge/LLM_Orchestration-10A37F?style=for-the-badge&logo=huggingface&logoColor=white)
+
+---
+
+### 📫 Connect
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/izumi-no/)
